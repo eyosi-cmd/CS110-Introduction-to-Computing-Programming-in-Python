@@ -1,0 +1,33 @@
+1. Hours to complete the project: 6 hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Ring Buffer):It was hard to understand the concept of the ring buffer
+and confusing to know how it works, but after I read the questions and see the
+descriptions for each function I understand to add and remove elements in each
+function. I also, after seeing some examples that we did in class about frequency, 
+that helps too. The TA also go over the problems and helped us to know how to peek
+function works. 
+
+    Problem 2 (Guitar String):Knowing the difference between creating and create from 
+a sample was very confusing, I was keeping getting errors because I did not know where
+to create an object string and init in the functions, but after I see the example that 
+the professor gives in the class about adding blocks in the open box and how to deal 
+waves utilizing a recursive model. It gives me an idea to solve the problem Guitar string.
+
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS110 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+    
+     N/A               TA    Go over the problems and explains about the functions.
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   Accually, project 3 is more clear and well diffined than the rest of other problems 
+because It is well defined and each function that we have to in the problems had enough
+discription, so it was challenging, but also it was fun to solve it. 
