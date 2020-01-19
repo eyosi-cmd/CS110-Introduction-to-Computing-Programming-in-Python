@@ -1,0 +1,27 @@
+1. Hours to complete the project: 14 hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Particle Identification): I know to calculate avogadro number, 
+          I used the formula from the discription, however the program that I
+          written it is not working, i do not know why?
+            
+   Problem 2 (Particle Tracking): Solving this problem is very hard.I try to 
+          determine how far a bead would moved from one time step t to the other,
+         but the program that I write is not working. 
+   Problem 3 (Data Analysis):Analizing the data does not work.
+
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS110 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   none                none          none
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   ...
