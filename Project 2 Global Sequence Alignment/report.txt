@@ -1,0 +1,33 @@
+1. Hours to complete the project: 48+ hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Markov Model Data Type): I think its the most difficult project that I encountered from this class.
+   However, I try to solve the problem by applying the discription that is given what each Data Types do. I created
+   a Markov model in order k in the model. The hints that given what the Markov model do is helpful to solve the problem
+   because I apply that utilizing the model thatpredicts the occurace of letter in the alphabet.
+
+   Problem 2 (Random Text Generator): After understanding the Markov model, it wasn't hard to generate a random text.
+   The only diffult thing is understanding what sys.stdin.read() do, but after attending one of the dissuction section 
+   I was able to get a help from the TA what this problem is asking.
+   
+
+   Problem 3 (Noisy Message Decoder): It was confusing to know how Message Decoding work since its accessing the obama dic file
+   to do so, however the given example on the problem shit helps alot on understand what the problem do which is replacing char
+   that makes sense, and the example is prefect. I used it Markov model to input the files.
+position (given the previous characters) but also when the replacement is used in the context of the k
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS110 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+  Tianyu Kang         T/A          go over the problem to understand what it is asking.
+  Andy                Student      discussed the general concept of Markov Model
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+ It was challenging problem, it took me long time to solve it but overall it was fun. 
