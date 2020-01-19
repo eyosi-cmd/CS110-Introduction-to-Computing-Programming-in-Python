@@ -1,0 +1,38 @@
+1. Hours to complete the project: 24 hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Wind Chill): I did not get diffult time on figuring out the codes and runing them, but the problems that I had faced are white-space and Indetations, blank lines. when I run the style.   
+
+   Problem 2 (Body Mass Index): I created two floats for command-lines, and use body mass formula under print statement to calculate, and checked if it passes run_tests.py program, and check Indentation and whitespace to have right style. 
+
+   Problem 3 (Polar Coordinates): I get two floats for command-lines, I use the formulas that are given on the instracts to find 'r' and 'Theta' values, and used output statement for 'r' and 'Theta'. I checked if it passed the runing code and follow pythons style ( using pycodestyles to check it). 
+
+   Problem 4 (Order Check): Created 3 floats for command-lines, I used if and else statement to check the values of the floats in strictly ascending or descending, I used an output 'True' if it qualifies one of them, or else if it is neither strictly ascending or descending, It used to print 'false' under else statement. 
+
+   Problem 5 (Day of the Week): I cearted integers at the command line for month, day, and year. And then I used the given formulas to calculate day of the week, and used output to printout 'the day of the week'. The check for the code if it had any style or testing problems. 
+c
+   Problem 6 (Mercator Projection): I created 3 float agrumnets at the comand line, and I used the floats to find the difference on the variable x, and to find y I used the given formula. And I printed x and y. 
+ 
+   Problem 7 (Great Circle): I used x1, y1, x2, and y2 as floats by conveting deg to rad at a command line, I used given formula to find distance, the I wrote the output after, and it works... I same problems that i faced is white-space and Indentations. I slove them using pycodestyle
+
+   Problem 8 (Three Sort): It challeged me to find middle number so i imported statistics and used to find median. The same problem on white-line and Indentations, which i solved them by going line by line. 
+
+   Problem 9 (Random Integer): I did not have any problem on runing the code or style, because I used to it after practice white-spacing problems 
+
+   Problem 10 (Three Dice): It took me long time following the question but i figure out later specially about randomse input at the command-line 
+
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS110 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+  N/A               N/A             N/A
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+There is no a heavy English wording on the questions, so it's easy to follow the directions :)
