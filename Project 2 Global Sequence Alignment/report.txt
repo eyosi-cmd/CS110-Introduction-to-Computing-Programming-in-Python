@@ -1,0 +1,24 @@
+1. Hours to complete the project: 30 hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Calculating Edit Distance Using Dynamic Programming): when I started the problem, I just followed what the comments instructing, but I was having a difficult time setting up i and j on the opt reverse order with a right size. I asked one of the classmates to show me the visual presentation of opt. 
+So, I realized that I have to use for loop to iterate i and j in the loops with a correct size which the given example for the outputs from the problem questions helps a lot to fix the problems the size of columns and rows in opt 2D array. The hardest thing that gives me a difficult time is computing the rest of 'opt' using range. From the trails errors, I figure if I have to fix the size of the rest of 'opt' by using the right index. 
+
+  Problem 2 (Recovering the Alignment): This problem is harder than the 1st problem, especially working on the concept of recovering the optimal alignment. Using some concept from the notes, I used loops to check each statement inside the loop. The first problem is definitely helping to solve this problem. And I took me longtime fitting my code with the directives about the genetics encodes, and I redirect the standard outputs by adding them directly. It helps me to map out the standard inputs from the directives.   
+
+ 
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS110 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   Teddy             Classmate    Discussed abstract concepts 
+   
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+Maybe, It better to explain these problems in the class becuause I was having hard time understanding
+the questions by itself. 
