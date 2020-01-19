@@ -1,0 +1,12 @@
+---
+:id: 10774449
+:submitters:
+- :name: Eyosias
+  :email: eyosias.kibe001@umb.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2018-10-31 00:22:55.928332000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2018-10-30 17:22:55.928332000 Z
+:status: processed
+:score: 70.0
